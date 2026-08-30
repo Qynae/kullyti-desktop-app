@@ -1,23 +1,23 @@
-<?xml version="3.0" encoding="utf-8"?>
-<rss version="3.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Kullyti Desktop Updates</title>
-        <link>https://raw.githubusercontent.com/Qynae/kullyti-desktop-app/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/Qynae/kullyti-desktop-app/refs/heads/main/appcast.xml</link>
         <description>Kullyti Windows Appcast Feed</description>
         <language>ar</language>
 
         <item>
-            <title>تحديث جديد لتطبيق كليتي - الإصدار 3.0.0</title>
+            <title>تحديث جديد لتطبيق كليتي - الإصدار 3.0.1</title>
             <description><![CDATA[
-                <h3>يتوفر إصدار أحدث وأكثر استقراراً من التطبيق.</h3>
+                <h3>يتوفر إصدار أحدث وأكثر استقراراً من التطبيق (3.0.1).</h3>
                 <p>يرجى تحديث التطبيق الآن للحصول على أحدث الميزات والتحسينات الأمنية وضمان استمرار عمل جميع الخدمات بكفاءة كاملة.</p>
             ]]></description>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 +0300</pubDate>
+            <pubDate>Sun, 30 Aug 2026 19:50:00 +0300</pubDate>
             <sparkle:criticalUpdate />
             <enclosure
                 url="https://github.com/Qynae/kullyti-desktop-app/releases/latest/download/Kullyti_Setup.exe"
-                sparkle:version="12"
-                sparkle:shortVersionString="3.0.0"
+                sparkle:version="3"
+                sparkle:shortVersionString="3.0.1"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
