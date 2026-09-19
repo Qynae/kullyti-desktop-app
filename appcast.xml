@@ -7,22 +7,22 @@
         <language>ar</language>
 
         <item>
-            <title>تحديث جديد لتطبيق كليتي - الإصدار 3.0.3</title>
+            <title>تحديث جديد لتطبيق كليتي - الإصدار 3.0.4</title>
             <description><![CDATA[
-                <h3>🎉 يتوفر إصدار جديد وأكثر استقراراً من التطبيق (3.0.3).</h3>
+                <h3>🎉 يتوفر إصدار جديد وأكثر استقراراً من التطبيق (3.0.4).</h3>
                 <ul>
-                    <li>🚀 إصلاح مشكلة إكمال الملف الشخصي للحسابات الجديدة على الويندوز.</li>
-                    <li>⚡ تحسين سرعة واستقرار فتح المستندات والتعامل الذكي مع حالات ضعف الاتصال.</li>
-                    <li>🔒 تحسينات شاملة في الأداء وضمان استقرار التطبيق.</li>
+                    <li>📱 دعم التمييز الذكي للمحتوى المخصص لتطبيقات الهاتف (is_app_only) وإتاحة الشراء السلس.</li>
+                    <li>🔒 إضافة علامة مائية أمنية للطلاب في مذكرات الـ PDF بخط خفيف جداً ومستقر على الويندوز.</li>
+                    <li>⚡ تحسينات شاملة في الأداء وضمان استقرار وسرعة التطبيق.</li>
                 </ul>
                 <p>يرجى تحديث التطبيق الآن لضمان استمرار عمل جميع الخدمات والمحاضرات بكفاءة كاملة.</p>
             ]]></description>
-            <pubDate>Fri, 18 Sep 2026 18:30:00 +0300</pubDate>
+            <pubDate>Sat, 19 Sep 2026 15:45:00 +0300</pubDate>
             <sparkle:criticalUpdate />
             <enclosure
                 url="https://github.com/Qynae/kullyti-desktop-app/releases/latest/download/Kullyti_Setup.exe"
-                sparkle:version="20"
-                sparkle:shortVersionString="3.0.3"
+                sparkle:version="21"
+                sparkle:shortVersionString="3.0.4"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
